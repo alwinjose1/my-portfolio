@@ -5,13 +5,6 @@
   A portfolio website i.e. built with <a href="https://nextjs.org/" target="_blank">Next.js</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>
 </p>
 
-<p align="center">
-  <a href="https://choosealicense.com/licenses/mit/">
-    <img src="https://img.shields.io/badge/License-MIT-brightgreen"/ >
-  </a>
-  <img src="https://img.shields.io/badge/Version-2.0.0-blue"/ >
-</p>
-
 <br>
 
 ![My-Portfolio](https://github.com/user-attachments/assets/633eca7b-9691-471e-9b14-994a63ff8ca3)
@@ -103,19 +96,14 @@ Remember, Good PR makes you a Good contributor!
 
 ## Contact
 
-- Website - [](https://)
+- Website - [](https://alwin-portfolio.vercel.app/)
 - Github - [@alwinjose1](https://github.com/alwinjose1)
 - LinkedIn - [@alwinjose1](https://www.linkedin.com/in/alwinjose1/)
 - Instagram - [@a.lwin__](https://www.instagram.com/a.lwin__)
 
 ## Acknowledgements
 
-- [https://developer-portfolio-1hanzla100.vercel.app/](https://developer-portfolio-1hanzla100.vercel.app/) - Design Inspiration
-- [https://brittanychiang.com/](https://brittanychiang.com/) - Design Inspiration
-- [https://dev.to/andrewchmr/awesome-animated-cursor-with-react-hooks-5ec3](https://dev.to/andrewchmr/awesome-animated-cursor-with-react-hooks-5ec3) - Cursor Animation Inspiration
-
-## Show Your Support
-
-Give a ⭐️ if you liked this project!
+- https://developer-portfolio-1hanzla100.vercel.app/ - Design Inspiration
+- https://brittanychiang.com/ - Design Inspiration
 
 [Scroll to Top]

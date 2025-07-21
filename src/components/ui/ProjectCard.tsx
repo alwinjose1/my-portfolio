@@ -25,7 +25,7 @@ const ProjectCard = ({
     className="block w-full overflow-hidden transition-all duration-200 rounded-md shadow-xl group bg-bg-secondary dark:shadow-2xl"
     >
       <div className="overflow-hidden h-[200px]">
-        <img
+        <Image
           src={img}
           alt={name}
           width={400}

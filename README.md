@@ -1,8 +1,8 @@
 <h1 align="center">
-  vatsalsinghkv.vercel.app
+  alwinjose1.vercel.app
 </h1>
 <p align="center">
-  A portfolio website i.e. <a href="https://vatsalsinghkv.vercel.app" target="_blank">vatsalsinghkv.vercel.app</a> built with <a href="https://nextjs.org/" target="_blank">Next.js</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>
+  A portfolio website i.e. built with <a href="https://nextjs.org/" target="_blank">Next.js</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>
 </p>
 
 <p align="center">
@@ -47,11 +47,11 @@
 
 ## How to use
 
-###### To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js (v20.18.0)](https://nodejs.org/en/download/) (which comes with [yarn](https://yarnpkg.com) installed on your computer).
+###### To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js (v20.18.0)](https://nodejs.org/en/download/) installed on your computer).
 
 1. Fork this repository and clone the project
 
-###### Please give me proper credit by linking back to [vatsalsinghkv.vercel.app](https://vatsalsinghkv.vercel.app).
+###### Please give me proper credit by linking back to
 
 ```bash
   git clone https://github.com/<YOUR USERNAME>/portfolio-website.git
@@ -84,8 +84,6 @@
 - To change the theme, edit `src/styles/globals.css`
 
 ## Contributing
-
-###### Join Our Discord: [https://discord.gg/St2dHg9YwA](https://discord.gg/St2dHg9YwA)
 
 Remember, Good PR makes you a Good contributor!
 

@@ -103,10 +103,10 @@ Remember, Good PR makes you a Good contributor!
 
 ## Contact
 
-- Website - [vatsalsinghkv.vercel.app](https://)
-- Github - [@vatsalsinghkv](https://github.com/alwinjose1)
-- LinkedIn - [@vatsalsinghkv](https://www.linkedin.com/in/alwinjose1/)
-- Instagram - [@vatsalsinghkv](https://www.instagram.com/a.lwin__)
+- Website - [](https://)
+- Github - [@alwinjose1](https://github.com/alwinjose1)
+- LinkedIn - [@alwinjose1](https://www.linkedin.com/in/alwinjose1/)
+- Instagram - [@a.lwin__](https://www.instagram.com/a.lwin__)
 
 ## Acknowledgements
 

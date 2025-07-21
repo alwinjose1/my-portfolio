@@ -12,9 +12,13 @@
     "plugin:@typescript-eslint/recommended",
     "prettier"
   ],
-  "plugins": ["@typescript-eslint", "simple-import-sort", "unused-imports"],
+  "plugins": [
+    "@typescript-eslint",
+    "simple-import-sort",
+    "unused-imports"
+  ],
   "rules": {
-    "@next/next/no-img-element": "error",
+    "@next/next/no-img-element": "off",
     "@next/next/no-html-link-for-pages": "error",
     "no-unused-vars": "off",
     "no-console": "warn",
@@ -26,7 +30,10 @@
     "react/display-name": "off",
     "react/jsx-curly-brace-presence": [
       "warn",
-      { "props": "never", "children": "never" }
+      {
+        "props": "never",
+        "children": "never"
+      }
     ],
     "@typescript-eslint/no-unused-vars": "off",
     "unused-imports/no-unused-imports": "warn",
@@ -44,13 +51,30 @@
       "warn",
       {
         "groups": [
-          ["^@?\\\\w", "^\\\\u0000"],
-          ["^.+\\\\.s?css$"],
-          ["^@/lib", "^@/hooks"],
-          ["^@/data"],
-          ["^@/components", "^@/container"],
-          ["^@/store"],
-          ["^@/"],
+          [
+            "^@?\\\\w",
+            "^\\\\u0000"
+          ],
+          [
+            "^.+\\\\.s?css$"
+          ],
+          [
+            "^@/lib",
+            "^@/hooks"
+          ],
+          [
+            "^@/data"
+          ],
+          [
+            "^@/components",
+            "^@/container"
+          ],
+          [
+            "^@/store"
+          ],
+          [
+            "^@/"
+          ],
           [
             "^\\\\./?$",
             "^\\\\.(?!/?$)",
@@ -61,8 +85,12 @@
             "^\\\\.\\\\./\\\\.\\\\./\\\\.\\\\./?$",
             "^\\\\.\\\\./\\\\.\\\\./\\\\.\\\\.(?!/?$)"
           ],
-          ["^@/types"],
-          ["^"]
+          [
+            "^@/types"
+          ],
+          [
+            "^"
+          ]
         ]
       }
     ]

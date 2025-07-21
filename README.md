@@ -14,7 +14,9 @@
 
 <br>
 
-[![My Portfolio](https://user-images.githubusercontent.com/68834718/214532356-7c56cdbd-0136-4d24-a532-d27e160ae72d.png)](https://vatsalsinghkv.vercel.app/)
+[![My-Portfolio](https://github.com/user-attachments/assets/633eca7b-9691-471e-9b14-994a63ff8ca3)
+
+
 
 ## Table of Contents
 
@@ -90,12 +92,6 @@ Remember, Good PR makes you a Good contributor!
 1. Run the project locally, refer [how to use](#how-to-use).
 2. Follow [Contributing Guidelines](/CONTRIBUTING.md).
 
-<div align="center">
-  <a href="https://github.com/vatsalsinghkv/portfolio-website/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=vatsalsinghkv/portfolio-website" />
-  </a>
-</div>
-
 ## Continuous Development
 
 - [ ] Case Study Page
@@ -107,13 +103,10 @@ Remember, Good PR makes you a Good contributor!
 
 ## Contact
 
-- Discord - [https://discord.gg/St2dHg9YwA](https://discord.gg/St2dHg9YwA)
-- Website - [vatsalsinghkv.vercel.app](https://vatsalsinghkv.vercel.app)
-- Github - [@vatsalsinghkv](https://github.com/vatsalsinghkv)
-- LinkedIn - [@vatsalsinghkv](https://www.linkedin.com/in/vatsalsinghkv/)
-- Twitter - [@vatsalsinghkv](https://www.twitter.com/vatsalsinghkv)
-- Instagram - [@vatsalsinghkv](https://www.instagram.com/vatsalsinghkv)
-- Facebook - [@vatsalsinghkv](https://www.facebook.com/vatsal.singh.kv)
+- Website - [vatsalsinghkv.vercel.app](https://)
+- Github - [@vatsalsinghkv](https://github.com/alwinjose1)
+- LinkedIn - [@vatsalsinghkv](https://www.linkedin.com/in/alwinjose1/)
+- Instagram - [@vatsalsinghkv](https://www.instagram.com/a.lwin__)
 
 ## Acknowledgements
 
@@ -125,4 +118,4 @@ Remember, Good PR makes you a Good contributor!
 
 Give a ⭐️ if you liked this project!
 
-[Scroll to Top](#--vatsalsinghkvvercelapp)
+[Scroll to Top]

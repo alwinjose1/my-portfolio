@@ -2,7 +2,7 @@
   alwinjose1.vercel.app
 </h1>
 <p align="center">
-  A portfolio website i.e. built with <a href="https://nextjs.org/" target="_blank">Next.js</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>
+  A portfolio website built with <a href="https://nextjs.org/" target="_blank">Next.js</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>
 </p>
 
 <br>
